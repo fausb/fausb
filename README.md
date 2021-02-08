@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋</h1>
 
 <p align="center">
-  My name is Fausto, I live in Buenos Aires, 🇦🇷.
+  My name is Fausto, I live in Buenos Aires, 🇦🇷.<br>
   I'm a junior front-end developer, software developer and Linux enthusiast. <br> I speak English and Spanish fluently.
 </p>
 
