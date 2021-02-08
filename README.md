@@ -2,7 +2,7 @@
 
 <p align="center">
   My name is Fausto, I live in Buenos Aires, 🇦🇷.<br>
-  I'm a junior front-end developer, software developer and Linux enthusiast. <br> I speak English and Spanish fluently.
+  I'm a junior front-end developer, software developer and Linux enthusiast. I speak English and Spanish fluently.
 </p>
 
 <p align="center">
@@ -13,4 +13,4 @@
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=ebdbb2&color=d79921" />
 </p>
 
-<p align="center"><img src="https://random-memer.herokuapp.com/" alt="Jokes Card" height="300px" /><br><i>Take a random meme</i></p>
+<p align="center"><img src="https://random-memer.herokuapp.com/" alt="Jokes Card" height="500px" /><br><i>Take a random meme</i></p>
