@@ -1,6 +1,9 @@
 <h1 align="center">Hi! 👋</h1>
 
-<p align="center">My name is Fausto, I live in Buenos Aires, 🇦🇷. I'm a junior front-end developer, software developer and Linux enthusiast. <br> I speak English and Spanish fluently.</p>
+<p align="center">
+  My name is Fausto, I live in Buenos Aires, 🇦🇷.
+  I'm a junior front-end developer, software developer and Linux enthusiast. <br> I speak English and Spanish fluently.
+</p>
 
 <p align="center">
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-informational?style=for-the-badge&logo=arch-linux&logoColor=ebdbb2&color=689d6a" />
