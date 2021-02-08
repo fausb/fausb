@@ -11,6 +11,7 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Vscode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=ebdbb2&color=b16286" />
   <img alt="Python" src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=ebdbb2&color=458588" />
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=ebdbb2&color=d79921" />
+  <hr />
 </p>
 
 <p align="center"><img src="https://random-memer.herokuapp.com/" alt="Jokes Card" height="500px" /><br><i>Take a random meme</i></p>
