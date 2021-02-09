@@ -14,4 +14,5 @@
   <hr />
 </p>
 
-<p align="center"><img src="https://random-memer.herokuapp.com/" alt="Jokes Card" height="500px" /><br><i>Take a random meme</i></p>
+<p align="center"><img src="https://random-memer.herokuapp.com/" alt="Jokes Card" height="500px" /><br></p>
+<p align="center"><i>Take a random meme</i></p>
