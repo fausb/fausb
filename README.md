@@ -4,9 +4,12 @@ fausto
 │   ├── languages
 │   │   ├── english
 │   │   └── spanish
-│   └── location
-│       └── argentina
-│           └── buenos-aires
+│   ├── location
+│   │   └── argentina
+│   │       └── buenos-aires
+│   └── contact
+│       ├── fausb@pm.me
+│       └── Faus#9595
 ├── technologies
 │   ├── learning
 │   │   ├── c
@@ -28,6 +31,9 @@ fausto
   * location
     * argentina
       * buenos-aires
+  * contact
+    * fausb@pm.me
+    * Faus#9595
 * technologies
   * learning
     * c
