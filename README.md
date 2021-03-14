@@ -1,18 +1,67 @@
-<h1 align="center">Hi! 👋</h1>
+```
+fausto
+├── about
+│   ├── languages
+│   │   ├── english
+│   │   └── spanish
+│   └── location
+│       └── argentina
+│           └── buenos-aires
+├── technologies
+│   ├── learning
+│   │   ├── c
+│   │   └── react
+│   ├── linux
+│   ├── javascript
+│   ├── python
+│   ├── sass
+│   └── vim
+└── projects
+    └── pending...
+```
+<!-- 
+* about
+  * languages
+    * english
+    * spanish
+  * location
+    * argentina
+      * buenos-aires
+* technologies
+  * learning
+    * c
+    * react
+  * linux
+  * javascript
+  * python
+  * sass
+  * vim
+* projects
+  * pending...
+>
 
-<p align="center">
-  My name is Fausto, I live in Buenos Aires, 🇦🇷.<br>
-  I'm a junior front-end developer, software developer and Linux enthusiast. I speak English and Spanish fluently.
-</p>
+<details>
+  <summary>pc</summary>
+  
+  ```
+  ├── os
+  │   ├── arch-linux
+  │   └── windows-10
+  └── specs
+      ├── ryzen-3-2200g
+      ├── rx-570
+      └── 8gb-2666mhz  
+  ```
+  
+  <!-- 
+* os
+  * arch-linux
+  * windows-10
+* specs
+  * ryzen-3-2200g
+  * rx-570
+  * 8gb-2666mhz
+>
+</details>
 
-<p align="center">
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-informational?style=for-the-badge&logo=arch-linux&logoColor=ebdbb2&color=689d6a" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=ebdbb2&color=98971a" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Vscode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=ebdbb2&color=b16286" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=ebdbb2&color=458588" />
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=ebdbb2&color=d79921" />
-  <hr />
-</p>
-
-<p align="center"><img src="https://random-memer.herokuapp.com/" alt="Random meme" height="500px" /><br></p>
-<p align="center"><img src="https://readme-jokes.vercel.app/api?theme=solarized-dark" alt="Jokes Card" /></p>
+<!-- https://tree-generator.herokuapp.com/ (utf-8) >
