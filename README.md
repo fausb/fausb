@@ -19,6 +19,7 @@ fausto
 └── projects
     └── pending...
 ```
+
 <!-- 
 * about
   * languages
@@ -38,20 +39,4 @@ fausto
   * vim
 * projects
   * pending...
->
-
-<details>
-  <summary>pc</summary>
-    
-  ```
-  ├── os
-  │   ├── arch-linux
-  │   └── windows-10
-  └── specs
-      ├── ryzen-3-2200g
-      ├── rx-570
-      └── 8gb-2666mhz  
-  ```
-</details>
-
-<!-- https://tree-generator.herokuapp.com/ (utf-8) >
+https://tree-generator.herokuapp.com/ (utf-8) >
