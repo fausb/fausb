@@ -42,7 +42,7 @@ fausto
 
 <details>
   <summary>pc</summary>
-  
+    
   ```
   ├── os
   │   ├── arch-linux
@@ -52,16 +52,6 @@ fausto
       ├── rx-570
       └── 8gb-2666mhz  
   ```
-  
-  <!-- 
-* os
-  * arch-linux
-  * windows-10
-* specs
-  * ryzen-3-2200g
-  * rx-570
-  * 8gb-2666mhz
->
 </details>
 
 <!-- https://tree-generator.herokuapp.com/ (utf-8) >
